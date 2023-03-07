@@ -6,7 +6,7 @@
 <p align="center">
 - 안녕하세요! 풀스택이 목표인 차원제(뷁풹) 입니다.<br>
 - 정보보안에 관심을 가지고 공부하고 있습니다!<br>
-<a href="https://www.instagram.com/cantabile/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>
+<a href="https://www.instagram.com/plz.cantabile/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>
 <br/>
 
 </p>
