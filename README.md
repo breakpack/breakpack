@@ -7,8 +7,7 @@
 - 안녕하세요! 풀스택이 목표인 차원제(뷁풹) 입니다.<br>
 - 정보보안에 관심을 가지고 공부하고 있습니다!<br>
 <a href="https://www.instagram.com/plz.cantabile/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/bowling_kyu/"/></a>
-<br/>
-
+<br><br>
 </p>
 <h3 align="center">📚 공부중이고 가지고 있는 스택!</h3>
 <p align="center">
@@ -18,8 +17,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakpack&langs_count=8)](https://github.com/breakpack/github-readme-stats)
 </p>
 
 </div>
