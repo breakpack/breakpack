@@ -1,7 +1,6 @@
 <div align="center">
 
-<!--![header](https://capsule-render.vercel.app/api?type=Waving&color=F0EDCC&height=300&section=header&text=breakpack's%20git&fontSize=90&fontColor=02343F)-->
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F0EDCC&height=300&section=header&text=CASPER%7BH1%21_THi5_I5_bReaKP%40%28K_G%21t%7D&fontSize=40&fontColor=02343F)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F0EDCC&height=300&section=header&text=breakpack's%20git&fontSize=90&fontColor=02343F)
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
 - 안녕하세요! 풀스택이 목표인 차원제(뷁풹) 입니다.<br>
