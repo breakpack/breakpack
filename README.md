@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=#3776AB"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=C%2B%2B&logoColor=#3776AB"/>
 </p>
 
 </div>
