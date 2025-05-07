@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=F0EDCC&height=300&section=header&text=CASPER{HI!_CASPER_2025_ASSIGNMENT}&fontSize=30&fontColor=02343F)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F0EDCC&height=300&section=header&text=breakpack's%20git&fontSize=90&fontColor=02343F)
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
 - 안녕하세요! 차원제(뷁풹) 입니다.<br>
